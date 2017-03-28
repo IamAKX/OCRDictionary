@@ -21,4 +21,4 @@ cache:
  - "$HOME/.gradle"
  - "$HOME/.gradle/caches/"
  - "$HOME/.gradle/wrapper/"
- - ${TRAVIS_BUILD_DIR}/android-sdk/extras/
+ - "/usr/local/android-sdk/extras"
